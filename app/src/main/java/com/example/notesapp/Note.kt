@@ -10,4 +10,5 @@ data class Note (
     @ColumnInfo(name = "title") val title: String?,
     @ColumnInfo(name = "contents") val contents: String?,
     @ColumnInfo(name = "date") val dateEdited: String?
+
 )
