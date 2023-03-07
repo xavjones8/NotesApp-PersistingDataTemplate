@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.adc.notesapp'
+    namespace 'com.example.notesapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.adc.notesapp"
+        applicationId "com.example.notesapp"
         minSdk 26
         targetSdk 33
         versionCode 1
